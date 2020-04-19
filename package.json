@@ -1,0 +1,23 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Exactly what it sounds like",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwdaly/twitter-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanwdaly/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/ryanwdaly/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
